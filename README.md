@@ -1,0 +1,1 @@
+## Simple App on Go with using MinIO
